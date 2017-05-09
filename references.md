@@ -1,7 +1,7 @@
 1.  Cheatsheets
-..* R
-....* [Basic, Advanced, Advanced R Studio](http://www.datasciencefree.com/cheatsheets.html)
-....* [Several for R and R Studio](https://www.rstudio.com/resources/cheatsheets/)
+- R
+-- [Basic, Advanced, Advanced R Studio](http://www.datasciencefree.com/cheatsheets.html)
+-- [Several for R and R Studio](https://www.rstudio.com/resources/cheatsheets/)
 ..* Python
 ....* [General, Numpy, Pandas](http://www.datasciencefree.com/cheatsheets.html)
 ....* [Basics (Data Camp)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
