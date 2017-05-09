@@ -1,27 +1,27 @@
 1.  Cheatsheets
-- R
--- [Basic, Advanced, Advanced R Studio](http://www.datasciencefree.com/cheatsheets.html)
--- [Several for R and R Studio](https://www.rstudio.com/resources/cheatsheets/)
-..* Python
-....* [General, Numpy, Pandas](http://www.datasciencefree.com/cheatsheets.html)
-....* [Basics (Data Camp)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
-....* [NumPy Basics (Data Camp)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
-....* [Pandas Basics (Data Camp)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)
-....* [Pandas for Data Wrangling (Data Camp)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf)
-....* [matplotlib (Data Camp)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
-....* [PySpark Basics (Data Camp)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_Cheat_Sheet_Python.pdf)
-....* [Choosing the right scikit-learn algorithm](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
-..* Machine Learning
-....* [Algorithms for Supervised and Unsupervised Learning](http://eferm.com/wp-content/uploads/2011/05/cheat3.pdf)
-....* [Microsoft Azure ML algorithm cheatsheet](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet)
-....* [Machine Learning in Emoji (by Emily Barry)](http://www.emilyinamillion.me/blog/2016/5/30/the-making-of-a-cheatsheet-emoji-edition)
-....* [Algorithm pros and cons](http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet)
-..* Markdown
-....* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-..* [Stata](http://geocenter.github.io/StataTraining/portfolio/01_resource/)
-..* General
-....* [Developer Zone Refcardz](https://dzone.com/refcardz): A variety of cheatsheets for many programming languages and data science concepts
-....* [50+ Data Science and ML Cheatsheets (KDnuggets)](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
+	* R
+		* [Basic, Advanced, Advanced R Studio](http://www.datasciencefree.com/cheatsheets.html)
+		* [Several for R and R Studio](https://www.rstudio.com/resources/cheatsheets/)
+	* Python
+		* [General, Numpy, Pandas](http://www.datasciencefree.com/cheatsheets.html)
+		* [Basics (Data Camp)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
+		* [NumPy Basics (Data Camp)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+		* [Pandas Basics (Data Camp)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)
+		* [Pandas for Data Wrangling (Data Camp)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf)
+		* [matplotlib (Data Camp)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
+		* [PySpark Basics (Data Camp)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_Cheat_Sheet_Python.pdf)
+		* [Choosing the right scikit-learn algorithm](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+	* Machine Learning
+		* [Algorithms for Supervised and Unsupervised Learning](http://eferm.com/wp-content/uploads/2011/05/cheat3.pdf)
+		* [Microsoft Azure ML algorithm cheatsheet](https://docs.microsoft.com/en-us/azure/machine-learning/machine-learning-algorithm-cheat-sheet)
+		* [Machine Learning in Emoji (by Emily Barry)](http://www.emilyinamillion.me/blog/2016/5/30/the-making-of-a-cheatsheet-emoji-edition)
+		* [Algorithm pros and cons](http://www.lauradhamilton.com/machine-learning-algorithm-cheat-sheet)
+	* Markdown
+		* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+	* [Stata](http://geocenter.github.io/StataTraining/portfolio/01_resource/)
+	* General
+		* [Developer Zone Refcardz](https://dzone.com/refcardz): A variety of cheatsheets for many programming languages and data science concepts
+		* [50+ Data Science and ML Cheatsheets (KDnuggets)](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
 
 2. Ontologies and Linked Data
 ..* [Nice overview](http://ontology-linked-data.wikispaces.asu.edu/Home)
