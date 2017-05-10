@@ -33,7 +33,7 @@
 	* [SPARQL 101](http://www.cambridgesemantics.com/semantic-university/sparql-101)
 	* Essential Books
 		* [Semantic Web for the Working Ontologist](https://www.amazon.com/Semantic-Working-Ontologist-Second-Edition/dp/0123859654/ref=pd_sim_14_4)
-		* [Learning SPARQL (O'reilly, 2nd Ed.](https://www.amazon.com/Learning-SPARQL-Querying-Updating-1-1/dp/1449371434/ref=sr_1_1?s=books&ie=UTF8&qid=1494307081&sr=1-1&keywords=sparql)
+		* [Learning SPARQL (O'reilly, 2nd Ed.)](https://www.amazon.com/Learning-SPARQL-Querying-Updating-1-1/dp/1449371434/ref=sr_1_1?s=books&ie=UTF8&qid=1494307081&sr=1-1&keywords=sparql)
 
 3. Visualization
 	* [Points of View (Nature Methods)](http://mkweb.bcgsc.ca/pointsofview/): A periodic column in Nature Methods that gives advice on best practices for scientific data presentation.
@@ -56,9 +56,11 @@
 
 5. Databases
 	* Relational
+		* [SQL Zoo](http://sqlzoo.net/wiki/SQL_Tutorial)
 		* [T-SQL Join Types](http://stevestedman.com/wp-content/uploads/joinTypeThumbnail1.png)
 	* Graph
 		* [Neo4j](https://neo4j.com)
+		* [Arrows Tool](http://www.apcjones.com/arrows/): Allows you to draw diagrams of small networks; convenient for drawing graph data models 
 
 6. General Data Science
 	* [The Periodic Table of Data Science](https://www.r-bloggers.com/the-periodic-table-of-data-science/)
@@ -79,7 +81,9 @@
 10. Web-based Programming Language Testing and Debugging Environments
 	* [eval.in](https://eval.in)
 	* [Debuggex (for regular expressions)](https://www.debuggex.com)
-
+	* [SQL Fiddle](http://sqlfiddle.com)
+	* [List of several other sites](http://www.hongkiat.com/blog/tools-to-coding-online/)
+	
 11. Software
 	* Analytics Platforms
 		* [Knime](https://www.knime.org)
@@ -116,7 +120,8 @@
 15. Statistics
 	* [Statistics for Biologists (Nature Web Collection)](https://www.nature.com/collections/qghhqm/pointsofsignificance)
 	* [Points of Significance (Nature Methods)](http://mkweb.bcgsc.ca/pointsofsignificance/): Periodic column in Nature Methods by Martin Krzywinski in which he gives advice on best practices in statistical analysis.
-
+	* [Probit regression](http://www.ats.ucla.edu/stat/r/dae/probit.htm)
+	* [Logit regression](http://www.ats.ucla.edu/stat/r/dae/logit.htm)
 16. Operating Systems
 	* Mac
 		* [20 OS X keyboard shortcuts](http://bgr.com/2016/02/14/secret-os-x-keyboard-shortcuts/)
