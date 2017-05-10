@@ -60,7 +60,7 @@
 		* [T-SQL Join Types](http://stevestedman.com/wp-content/uploads/joinTypeThumbnail1.png)
 	* Graph
 		* [Neo4j](https://neo4j.com)
-		* [Arrows Tool](http://www.apcjones.com/arrows/): Allows you to draw diagrams of small networks; convenient for drawing graph data models 
+		* [Arrows Tool](http://www.apcjones.com/arrows/): Allows you to draw diagrams of small networks; convenient for creating graph data models 
 
 6. General Data Science
 	* [The Periodic Table of Data Science](https://www.r-bloggers.com/the-periodic-table-of-data-science/)
