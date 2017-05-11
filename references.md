@@ -87,7 +87,7 @@
 	* [SQL Fiddle](http://sqlfiddle.com)
 	* [List of several other sites](http://www.hongkiat.com/blog/tools-to-coding-online/)
 	
-11. *Software*
+11. **Software**
 	* Analytics Platforms
 		* [Knime](https://www.knime.org)
 	* Data Visualization
@@ -103,30 +103,30 @@
 	* Machine Learning
 		* [Weka](http://www.cs.waikato.ac.nz/~ml/weka/)
 
-12. *Podcasts*
+12. **Podcasts**
 	* [Data Skeptic](https://dataskeptic.com)
 	* [Others](https://medium.com/startup-grind/the-10-best-ai-data-science-and-machine-learning-podcasts-d7495cfb127c#.laarpxka9)
 
-13. *Online Learning and MOOCs for Programming and Data Science*
+13. **Online Learning and MOOCs for Programming and Data Science**
 	* [Data Camp](https://www.datacamp.com): R and Python ($29 / month, unlimited access)
 	* [Udemy](https://www.udemy.com): Various courses, often courses on sale for as low as $10
 	* [Coursera](https://www.coursera.org/browse/data-science) 
 	* [Udacity](https://www.udacity.com/courses/data-science)
 	* [SoloLearn](https://www.sololearn.com/Courses/): Mobile format allows you to take programming language courses on your phone
 
-14. *Data Science-related Websites*
+14. **Data Science-related Websites**
 	* [KD Nuggets](http://www.kdnuggets.com)
 	* [Data Science Central](http://www.datasciencecentral.com) 
 	* [R-bloggers](https://www.r-bloggers.com) 
 	* [Cross Validated](http://stats.stackexchange.com) 
 
-15. *Statistical Analysis*
+15. **Statistical Analysis**
 	* [Statistics for Biologists (Nature Web Collection)](https://www.nature.com/collections/qghhqm/pointsofsignificance)
 	* [Points of Significance (Nature Methods)](http://mkweb.bcgsc.ca/pointsofsignificance/): Periodic column in Nature Methods by Martin Krzywinski in which he gives advice on best practices in statistical analysis.
 	* [Probit regression](http://www.ats.ucla.edu/stat/r/dae/probit.htm)
 	* [Logit regression](http://www.ats.ucla.edu/stat/r/dae/logit.htm)
 	
-16. *Operating Systems*
+16. **Operating Systems**
 	* Mac
 		* [20 OS X keyboard shortcuts](http://bgr.com/2016/02/14/secret-os-x-keyboard-shortcuts/)
 		* [13 most useful Mac shortcuts](http://www.businessinsider.com/useful-apple-mac-keyboard-shortcuts-os-x2016-1)
@@ -140,9 +140,9 @@
 		* [20 must-know keyboard shortcuts for Windows 10](http://www.pcworld.com/article/2975931/windows/20-must-know-keyboard-shortcuts-for-windows-10.html)
 		* [Full list of keyboard shortcuts for Windows 10](https://www.onmsft.com/news/heres-full-list-keyboard-shortcuts-windows-10)
 
-17. *Graphs/Networks*
+17. **Graphs/Networks**
 	* [Network Science](http://barabasi.com/book/network-science): 
 
-18. *Data Sets*
+18. **Data Sets**
 	* [NIH RePORTER](https://projectreporter.nih.gov/reporter.cfm): Research Portfolio Online Reporting Tools from the NIH
 	* [Gephi Data Sets](https://github.com/gephi/gephi/wiki/Datasets): Sample data sets in various graph formats
