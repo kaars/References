@@ -1,4 +1,4 @@
-1.  *Cheatsheets*
+1.  **Cheatsheets**
 	* General Data Science
 		* [The Periodic Table of Data Science](https://www.r-bloggers.com/the-periodic-table-of-data-science/)
 		* [Data Science Skills Roadmap](http://api.ning.com/files/v2lbj4A*dlMuI7BO2vXgjbXm0e78NLOMco1IbpI9fdUKH9Thb3oxWs8MsgCA7nUTU8rwrROiYonP7csIDFOFN9Oa4MPAaqa6/RoadtoDataScientistGraphic.png)
@@ -29,7 +29,7 @@
 		* [Developer Zone Refcardz](https://dzone.com/refcardz): A variety of cheatsheets for many programming languages and data science concepts
 		* [50+ Data Science and ML Cheatsheets (KDnuggets)](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
 
-2. *Ontologies and Linked Data*
+2. **Ontologies and Linked Data**
 	* [Nice overview](http://ontology-linked-data.wikispaces.asu.edu/Home)
 	* [Linked Open Vocabularies (LOV)](http://lov.okfn.org/dataset/lov/)
 	* [BioPortal](http://bioportal.bioontology.org): A large repository of biomedical ontologies
@@ -38,7 +38,7 @@
 		* [Semantic Web for the Working Ontologist](https://www.amazon.com/Semantic-Working-Ontologist-Second-Edition/dp/0123859654/ref=pd_sim_14_4)
 		* [Learning SPARQL (O'reilly, 2nd Ed.)](https://www.amazon.com/Learning-SPARQL-Querying-Updating-1-1/dp/1449371434/ref=sr_1_1?s=books&ie=UTF8&qid=1494307081&sr=1-1&keywords=sparql)
 
-3. *Visualization*
+3. **Visualization**
 	* [Points of View (Nature Methods)](http://mkweb.bcgsc.ca/pointsofview/): A periodic column in Nature Methods that gives advice on best practices for scientific data presentation.
 	* [Google Charts](https://jsfiddle.net/je7tktp8/1/): Web-based API that lets you choose a chart type from a list of many templates and lets you create your own in Javascript with JSFiddle.
 	* [Google Fusion Tables](https://sites.google.com/site/fusiontablestalks/stories): A web-based visualization app that, among other things, allows you to easily create a network from your data
@@ -55,13 +55,13 @@
 		* [in R](https://www.r-bloggers.com/pareto-charts-in-r/)
 		* [in Excel](http://www.excel-easy.com/examples/pareto-chart.html)
 
-4. *Machine Learning Education*
+4. **Machine Learning Education**
 	* [Kaggle](https://www.kaggle.com): Machine learning, competitions, data sets, etc.
 	* [Andrew Ng's Stanford ML course](http://cs229.stanford.edu/materials.html)
 	* [A tour of ML algorithms (Machine Learning Mastery)](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 	* [Which ML algorithm should I use? (SAS)](http://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
 
-5. *Databases*
+5. **Databases**
 	* Relational
 		* [SQL Zoo](http://sqlzoo.net/wiki/SQL_Tutorial)
 		* [T-SQL Join Types](http://stevestedman.com/wp-content/uploads/joinTypeThumbnail1.png)
@@ -69,19 +69,19 @@
 		* [Neo4j](https://neo4j.com)
 		* [Arrows Tool](http://www.apcjones.com/arrows/): Allows you to draw diagrams of small networks; convenient for creating graph data models 
  
-6. *Data Science Training and Recorded Seminars*
+6. **Data Science Training and Recorded Seminars**
 	* [Data Science Consortium](http://datascienceconsortium.org)
 	* [BD2K Training Coordination Center](http://bigdatau.org)
 	* [BD2K TCC Seminar Page](http://www.bigdatau.org/data-science-seminars)
 
-8. *Open Data*
+8. **Open Data**
 	* [Open Science Framework](https://osf.io)
 	* [Duraspace.org (includes the D Space, Fedora, and VIVO projects](http://duraspace.org)
 
-9. *General Science References*
+9. **General Science References**
 	* [PLoS Computational Biology: 10 Simple Rules](http://collections.plos.org/ten-simple-rules)
 
-10. *Web-based Programming Language Testing and Debugging Environments*
+10. **Web-based Programming Language Testing and Debugging Environments**
 	* [eval.in](https://eval.in)
 	* [Debuggex (for regular expressions)](https://www.debuggex.com)
 	* [SQL Fiddle](http://sqlfiddle.com)
