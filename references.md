@@ -141,7 +141,7 @@
 		* [Full list of keyboard shortcuts for Windows 10](https://www.onmsft.com/news/heres-full-list-keyboard-shortcuts-windows-10)
 
 17. **Graphs/Networks**
-	* [Network Science](http://barabasi.com/book/network-science): 
+	* [Network Science](http://barabasi.com/book/network-science): Textbook by Albert-László Barabási, free for online reading
 
 18. **Data Sets**
 	* [NIH RePORTER](https://projectreporter.nih.gov/reporter.cfm): Research Portfolio Online Reporting Tools from the NIH
