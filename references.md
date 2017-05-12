@@ -67,6 +67,7 @@
 		* [T-SQL Join Types](http://stevestedman.com/wp-content/uploads/joinTypeThumbnail1.png)
 	* Graph
 		* [Neo4j](https://neo4j.com)
+		* [Introduction to Graph Databases Series (Neo4j)](https://www.youtube.com/playlist?list=PL9Hl4pk2FsvWM9GWaguRhlCQ-pa-ERd4U)
 		* [Arrows Tool](http://www.apcjones.com/arrows/): Allows you to draw diagrams of small networks; convenient for creating graph data models 
  
 6. **Data Science Training and Recorded Seminars**
@@ -90,6 +91,8 @@
 11. **Software**
 	* Analytics Platforms
 		* [Knime](https://www.knime.org)
+	* Data Cleaning and Processing
+		* [OpenRefine](https://github.com/OpenRefine/OpenRefine): an Interactive Data Transformation tool (IDT), formerly called 'Google Refine'
 	* Data Visualization
 		* [Tableau](https://www.tableau.com/)
 		* [UpSet](http://caleydo.org/tools/upset/): Software for visualizing multiple intersecting data sets
@@ -146,3 +149,5 @@
 18. **Data Sets**
 	* [NIH RePORTER](https://projectreporter.nih.gov/reporter.cfm): Research Portfolio Online Reporting Tools from the NIH
 	* [Gephi Data Sets](https://github.com/gephi/gephi/wiki/Datasets): Sample data sets in various graph formats
+	
+	
