@@ -150,4 +150,14 @@
 	* [NIH RePORTER](https://projectreporter.nih.gov/reporter.cfm): Research Portfolio Online Reporting Tools from the NIH
 	* [Gephi Data Sets](https://github.com/gephi/gephi/wiki/Datasets): Sample data sets in various graph formats
 	
+19. **Bioinformatics**
+	* [National Center for Biotechnology Information (NCBI)](https://www.ncbi.nlm.nih.gov): Access portal for biomedical and genomic information
+	* [Biostars](https://www.biostars.org)
+	* [Seqanswers](http://seqanswers.com)
+	* [Bioinformatics and Functional Genomics, 3rd Ed.](http://www.bioinfbook.org): Bioinformatics textbook by Jonathan Pevsner; 2nd edition is available in PDF form for free 
+	* [Chicago Bioinformatics](chicagobioinformatics.info): The Chicago Bioinformatics Slack Channel for bioinformatics discussions
+
+20. **General Programming**
+	* [Stack Overflow](http://stackoverflow.com)
+	* [Tech Republic](http://www.techrepublic.com)
 	
