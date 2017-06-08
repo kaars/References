@@ -152,11 +152,13 @@
 	
 19. **Bioinformatics**
 	* [National Center for Biotechnology Information (NCBI)](https://www.ncbi.nlm.nih.gov): Access portal for biomedical and genomic information
+	* [NCBI Genomics Flash Cards](ftp://ftp.ncbi.nlm.nih.gov/pub/education/Local/2015/JHU_Jan/Workshop3_Genomics/NCBI_genomics_flash_cards_6.pdf): Reference for bioinformatics terms coupled with associated services and websites provided by NCBI
 	* [Biostars](https://www.biostars.org)
 	* [Seqanswers](http://seqanswers.com)
 	* [Bioinformatics and Functional Genomics, 3rd Ed.](http://www.bioinfbook.org): Bioinformatics textbook by Jonathan Pevsner; 2nd edition is available in PDF form for free 
 	* [Chicago Bioinformatics](chicagobioinformatics.info): The Chicago Bioinformatics Slack Channel for bioinformatics discussions
-
+	* [Pathguide](http://pathguide.org/): Extensive list of more than 500 biological pathway databases and other resources
+	
 20. **General Programming**
 	* [Stack Overflow](http://stackoverflow.com)
 	* [Tech Republic](http://www.techrepublic.com)
