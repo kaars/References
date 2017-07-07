@@ -76,7 +76,9 @@
 	* [BD2K TCC Seminar Page](http://www.bigdatau.org/data-science-seminars)
 
 8. **Open Data**
-	* [Open Science Framework](https://osf.io)
+	* [Center for Open Science](https://cos.io)
+		* [COS Video Tutorials](https://cos.io/our-services/training-services/cos-training-tutorials/)
+		* [Open Science Framework](https://osf.io)
 	* [Duraspace.org (includes the D Space, Fedora, and VIVO projects](http://duraspace.org)
 
 9. **General Science References**
