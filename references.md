@@ -128,8 +128,6 @@
 15. **Statistical Analysis**
 	* [Statistics for Biologists (Nature Web Collection)](https://www.nature.com/collections/qghhqm/pointsofsignificance)
 	* [Points of Significance (Nature Methods)](http://mkweb.bcgsc.ca/pointsofsignificance/): Periodic column in Nature Methods by Martin Krzywinski in which he gives advice on best practices in statistical analysis.
-	* [Probit regression](http://www.ats.ucla.edu/stat/r/dae/probit.htm)
-	* [Logit regression](http://www.ats.ucla.edu/stat/r/dae/logit.htm)
 	
 16. **Operating Systems**
 	* Mac
