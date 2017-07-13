@@ -75,6 +75,10 @@
 	* [BD2K Training Coordination Center](http://bigdatau.org)
 	* [BD2K TCC Seminar Page](http://www.bigdatau.org/data-science-seminars)
 
+7. **Statistics**
+	* [R-bloggers](https://www.r-bloggers.com/): Support for statistical analysis nd R
+	* [Cross Validated](https://stats.stackexchange.com/): Question and answer site for those who need help with stats, machine learning, data analysis, etc.
+
 8. **Open Data**
 	* [Center for Open Science](https://cos.io)
 		* [COS Video Tutorials](https://cos.io/our-services/training-services/cos-training-tutorials/)
