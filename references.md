@@ -39,6 +39,7 @@
 		* [Learning SPARQL (O'reilly, 2nd Ed.)](https://www.amazon.com/Learning-SPARQL-Querying-Updating-1-1/dp/1449371434/ref=sr_1_1?s=books&ie=UTF8&qid=1494307081&sr=1-1&keywords=sparql)
 
 3. **Visualization**
+	* [Seeing Data](http://seeingdata.org): Tips and training for interpreting data visualizations
 	* [Points of View (Nature Methods)](http://mkweb.bcgsc.ca/pointsofview/): A periodic column in Nature Methods that gives advice on best practices for scientific data presentation.
 	* [Google Charts](https://jsfiddle.net/je7tktp8/1/): Web-based API that lets you choose a chart type from a list of many templates and lets you create your own in Javascript with JSFiddle.
 	* [Google Fusion Tables](https://sites.google.com/site/fusiontablestalks/stories): A web-based visualization app that, among other things, allows you to easily create a network from your data
