@@ -74,6 +74,7 @@
 	* [Data Science Consortium](http://datascienceconsortium.org)
 	* [BD2K Training Coordination Center](http://bigdatau.org)
 	* [BD2K TCC Seminar Page](http://www.bigdatau.org/data-science-seminars)
+	* [DataBytes from the National Consortium for Data Science (NCDS)](http://datascienceconsortium.org/databytes-webinars/)
 
 7. **Statistics**
 	* [R-bloggers](https://www.r-bloggers.com/): Support for statistical analysis nd R
