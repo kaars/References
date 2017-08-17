@@ -86,7 +86,7 @@
 	* [Center for Open Science](https://cos.io)
 		* [COS Video Tutorials](https://cos.io/our-services/training-services/cos-training-tutorials/)
 		* [Open Science Framework](https://osf.io)
-	* [Duraspace.org (includes the D Space, Fedora, and VIVO projects](http://duraspace.org)
+	* [Duraspace.org (includes the DSpace, Fedora, and VIVO projects)](http://duraspace.org)
 
 9. **General Science References**
 	* [PLoS Computational Biology: 10 Simple Rules](http://collections.plos.org/ten-simple-rules)
