@@ -59,7 +59,7 @@
 4. **Machine Learning Education**
 	* [Kaggle](https://www.kaggle.com): Machine learning, competitions, data sets, etc.
 	* [Andrew Ng's Stanford ML course](http://cs229.stanford.edu/materials.html)
-	* [A tour of ML algorithms (Machine Learning Mastery)](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+	* [Machine Learning Mastery](http://machinelearningmastery.com/): Lots of helpful advice on applied machine learning
 	* [Which ML algorithm should I use? (SAS)](http://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/)
 
 5. **Databases**
@@ -81,7 +81,8 @@
 	* [R-bloggers](https://www.r-bloggers.com/): Support for statistical analysis nd R
 	* [Cross Validated](https://stats.stackexchange.com/): Question and answer site for those who need help with stats, machine learning, data analysis, etc.
 
-8. **Open Data**
+8. **Data Management and Open Data**
+	* [Nation Network of Libraries of Medicine (NNLM) RD3](https://nnlm.gov/data): Resources for data-driven discovery including data management, storage, curation, and metadata.
 	* [Center for Open Science](https://cos.io)
 		* [COS Video Tutorials](https://cos.io/our-services/training-services/cos-training-tutorials/)
 		* [Open Science Framework](https://osf.io)
@@ -114,7 +115,7 @@
 	* Machine Learning
 		* [Weka](http://www.cs.waikato.ac.nz/~ml/weka/)
 
-12. **Podcasts**
+12. **Data Science-related Podcasts**
 	* [Data Skeptic](https://dataskeptic.com)
 	* [Others](https://medium.com/startup-grind/the-10-best-ai-data-science-and-machine-learning-podcasts-d7495cfb127c#.laarpxka9)
 
