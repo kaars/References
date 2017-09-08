@@ -73,14 +73,17 @@
  
 6. **Data Science Training and Recorded Seminars**
 	* [Data Science Consortium](http://datascienceconsortium.org)
-	* [BD2K Training Coordination Center](http://bigdatau.org)
-	* [BD2K TCC Seminar Page](http://www.bigdatau.org/data-science-seminars)
+	* [NIH Big Data 2 Knowledge (BD2K)](https://commonfund.nih.gov/bd2k)
+		* [BD2K Training Coordination Center (TCC)](http://bigdatau.org)
+		* [BD2K TCC Seminar Page](http://www.bigdatau.org/data-science-seminars)
+		* [ERUDITE](https://bigdatau.ini.usc.edu/explore_erudite) A resource discovery index from the BD2K Training Coordinating Center
 	* [DataBytes from the National Consortium for Data Science (NCDS)](http://datascienceconsortium.org/databytes-webinars/)
 
 7. **Statistics**
 	* [R-bloggers](https://www.r-bloggers.com/): Support for statistical analysis nd R
 	* [Cross Validated](https://stats.stackexchange.com/): Question and answer site for those who need help with stats, machine learning, data analysis, etc.
-
+	* [R for Data Science](http://r4ds.had.co.nz/): Nice resource from Garrett Grolemund and Hadley Wickham
+	
 8. **Data Management and Open Data**
 	* [Nation Network of Libraries of Medicine (NNLM) RD3](https://nnlm.gov/data): Resources for data-driven discovery including data management, storage, curation, and metadata.
 	* [Center for Open Science](https://cos.io)
