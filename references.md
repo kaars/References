@@ -162,7 +162,7 @@
 	
 19. **Bioinformatics**
 	* [National Center for Biotechnology Information (NCBI)](https://www.ncbi.nlm.nih.gov): Access portal for biomedical and genomic information
-	* [NCBI Genomics Flash Cards](ftp://ftp.ncbi.nlm.nih.gov/pub/education/Local/2015/JHU_Jan/Workshop3_Genomics/NCBI_genomics_flash_cards_6.pdf): Reference for bioinformatics terms coupled with associated services and websites provided by NCBI
+	* [NCBI Genomics Flash Cards]: ftp://ftp.ncbi.nlm.nih.gov/pub/education/Local/2015/JHU_Jan/Workshop3_Genomics/NCBI_genomics_flash_cards_6.pdf - Reference for bioinformatics terms coupled with associated services and websites provided by NCBI
 	* [NCBI Hackathons](https://ncbi-hackathons.github.io): List of upcoming hackathons and code from ongoing projects
 	* [Biostars](https://www.biostars.org)
 	* [Seqanswers](http://seqanswers.com)
