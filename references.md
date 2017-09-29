@@ -155,6 +155,7 @@
 
 17. **Graphs/Networks**
 	* [Network Science](http://barabasi.com/book/network-science): Textbook by Albert-László Barabási, free for online reading
+	* [Network Visualization in R](http://kateto.net/network-visualization) Katya Ognyanova's nice tutorial from the POLNET 2017 Workshop
 
 18. **Data Sets**
 	* [NIH RePORTER](https://projectreporter.nih.gov/reporter.cfm): Research Portfolio Online Reporting Tools from the NIH
