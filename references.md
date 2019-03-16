@@ -1,4 +1,5 @@
 1. **Books**
+	* [Network Science](http://networksciencebook.com/)
 	* [R for Data Science](https://r4ds.had.co.nz/)
 	* [R for Data Science (Exercise Solutions)](https://jrnold.github.io/r4ds-exercise-solutions/)
 	* [Tidyverse Style Guide](https://style.tidyverse.org/_main.pdf)
