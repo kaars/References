@@ -81,7 +81,7 @@
 	* [NIH Big Data 2 Knowledge (BD2K)](https://commonfund.nih.gov/bd2k)
 		* [BD2K Training Coordination Center (TCC)](http://bigdatau.org)
 		* [BD2K TCC Seminar Page](http://www.bigdatau.org/data-science-seminars)
-		* [ERUDITE](https://bigdatau.ini.usc.edu/explore_erudite) A resource discovery index from the BD2K Training Coordinating Center
+		* [ERUDITE](https://bigdatau.ini.usc.edu/explore_erudite): A resource discovery index from the BD2K Training Coordinating Center
 	* [DataBytes from the National Consortium for Data Science (NCDS)](http://datascienceconsortium.org/databytes-webinars/)
 
 7. **Statistics**
