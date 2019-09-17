@@ -164,6 +164,7 @@
 
 18. **Data Sets**
 	* [NIH RePORTER](https://projectreporter.nih.gov/reporter.cfm): Research Portfolio Online Reporting Tools from the NIH
+	* [National Electronic Injury Surveillance System (NEISS)](https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data): Data sets of injuries based on a nationally representative probability sample of hospitals in the U.S. and its territories.
 	* [Gephi Data Sets](https://github.com/gephi/gephi/wiki/Datasets): Sample data sets in various graph formats
 	
 19. **Bioinformatics**
